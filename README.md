@@ -69,6 +69,7 @@ Additional array utilities:
 
 To get started with this repository, follow these steps:
 
+
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/js-array-methods](https://github.com/Rammrdvi/Javascript_array_methods).git
+   git clone https://github.com/Rammrdvi/javascript_array_methods.git
